@@ -1,6 +1,6 @@
 #!/bin/bash                                                                                                        
-token="51442xxxxx:AAHOcu412rWtOPDTyaLaDqxig-xxxxxxxx" #create your own
-chat_id="-79177xxxx" #create your own
+token="51442xxxxx:AAHOcu412rWtOPDTyaLaDqxig-xxxxxxxx" change to yours
+chat_id="-79177xxxx" change to yours
 url=https://api.telegram.org/bot$token/sendMessage
 msg_title="SLAVE IS NOT RUNNING...!"
 spr="======================"
